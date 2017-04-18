@@ -1,0 +1,13 @@
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/BuckeyeStoreCore.Tests.deps.json
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/BuckeyeStoreCore.Tests.runtimeconfig.json
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/BuckeyeStoreCore.Tests.runtimeconfig.dev.json
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/obj/Debug/netcoreapp1.1/BuckeyeStoreCore.Tests.AssemblyInfo.cs
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/BuckeyeStoreCore.Tests.dll
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/BuckeyeStoreCore.Tests.pdb
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.dll
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.pdb
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/obj/Debug/netcoreapp1.1/BuckeyeStoreCore.Tests.dll
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Tests/BuckeyeStoreCore.Tests/obj/Debug/netcoreapp1.1/BuckeyeStoreCore.Tests.pdb

@@ -1,0 +1,4 @@
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.deps.json
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.runtimeconfig.json
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.runtimeconfig.dev.json
+/Users/andrewrichardson/ACCTMIS_3610/Programs/BuckeyeStore/Source/BuckeyeStore.Api/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.AssemblyInfo.cs

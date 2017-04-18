@@ -1,7 +1,8 @@
 using System;
 using Xunit;
+using BuckeyeStore.Api.Data;
 
-namespace BuckeyeStoreCore.Tests
+namespace BuckeyeStore.Api.Tests
 {
     public class UnitTest1
     {
